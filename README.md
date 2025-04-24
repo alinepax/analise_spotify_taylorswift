@@ -63,10 +63,6 @@ Este repositório contém uma análise exploratória das métricas de áudio e d
      ```bash
      jupyter notebook notebooks/analise_spotify_ts.ipynb
      ```
-   - Ou rode o script completo de visualizações:  
-     ```bash
-     python scripts/plot_visualizations.py
-     ```
 
 ---
 
