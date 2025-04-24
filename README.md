@@ -7,15 +7,17 @@ Este repositório contém uma análise exploratória das métricas de áudio e d
 ## 📁 Estrutura do Projeto
 
 ```
-.
-├── data/                           # Dados brutos (CSV) baixados do Kaggle
+├── data/                          # Dados brutos (CSV) baixados do Kaggle
+|   └── taylor_swift_spotify.csv
+├── images/                        # Gráficos gerados (PNG)
+│   ├── acousticness_por_album.png
+│   ├── danceability_por_album.png
+│   ├── energy_por_album.png
+│   └── ...
+|
 ├── notebooks/                      # Jupyter Notebooks com a análise exploratória
 │   └── analise_spotify_ts.ipynb
-├── images/                        # Gráficos gerados (PNG)
-│   ├── popularidade_por_tipo_album.png
-│   ├── media_caracteristicas_album.png
-│   ├── heatmap_caracteristicas_album.png
-│   └── ...  
+|
 ├── requirements.txt                # Dependências do Python
 └── README.md                       # Este arquivo
 ```
