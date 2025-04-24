@@ -1,4 +1,4 @@
-# Análise de Métricas Spotify – Taylor Swift
+# 🎵 Análise de Métricas Spotify – Taylor Swift
 
 Este repositório contém uma análise exploratória das métricas de áudio e de popularidade das músicas e álbuns de Taylor Swift no Spotify. O objetivo é entender padrões de engajamento, características sonoras e estratégias de lançamento ao longo da carreira da artista.
 
@@ -8,21 +8,25 @@ Este repositório contém uma análise exploratória das métricas de áudio e d
 
 ```
 .
-├── data/                           # Dados brutos (CSV/JSON) exportados do Spotify API
+├── data/                           # Dados brutos (CSV) baixados do Kaggle
 ├── notebooks/                      # Jupyter Notebooks com a análise exploratória
 │   └── analise_spotify_ts.ipynb
-├── figures/                        # Gráficos gerados (PNG, SVG)
+├── images/                        # Gráficos gerados (PNG)
 │   ├── popularidade_por_tipo_album.png
 │   ├── media_caracteristicas_album.png
 │   ├── heatmap_caracteristicas_album.png
 │   └── ...  
-├── scripts/                        # Scripts para processamento e visualização
-│   ├── load_data.py
-│   ├── compute_metrics.py
-│   └── plot_visualizations.py
 ├── requirements.txt                # Dependências do Python
 └── README.md                       # Este arquivo
 ```
+
+--- 
+
+## 📥 Fontes de Dados
+
+- **Taylor Swift Spotify Dataset** – Jarred Priester, Kaggle:  
+  https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset
+
 
 ---
 
