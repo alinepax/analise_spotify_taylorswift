@@ -21,9 +21,22 @@ Este repositório contém uma análise exploratória das métricas de áudio e d
 ├── LICENSE                         # Licença do Projeto
 ├── README.md                       # Este arquivo
 └── requirements.txt                # Dependências do Python
-```
+``` 
 
---- 
+---
+
+## 📈 Visualizações em Destaque
+
+### 🎵 Popularidade por Tipo de Álbum
+![Popularidade por Tipo de Álbum](figures/popularidade_por_tipo_album.png)
+
+### 📊 Médias das Características por Álbum
+![Média das Características por Álbum](figures/media_caracteristicas_album.png)
+
+### 🔥 Heatmap de Características Sonoras por Álbum
+![Heatmap de Características](figures/heatmap_caracteristicas_album.png)
+
+---
 
 ## 📥 Fontes de Dados
 
