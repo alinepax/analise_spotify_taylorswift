@@ -24,8 +24,7 @@ Este repositório contém uma análise exploratória das métricas de áudio e d
 
 ## 📥 Fontes de Dados
 
-- **Taylor Swift Spotify Dataset** – Jarred Priester, Kaggle:  
-  https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset
+- **Taylor Swift Spotify Dataset** – Jarred Priester, [Kaggle](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset) 
 
 
 ---
