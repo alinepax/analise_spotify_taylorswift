@@ -18,8 +18,9 @@ Este repositório contém uma análise exploratória das métricas de áudio e d
 ├── notebooks/                      # Jupyter Notebooks com a análise exploratória
 │   └── analise_spotify_ts.ipynb
 |
-├── requirements.txt                # Dependências do Python
-└── README.md                       # Este arquivo
+├── LICENSE                         # Licença do Projeto
+├── README.md                       # Este arquivo
+└── requirements.txt                # Dependências do Python
 ```
 
 --- 
