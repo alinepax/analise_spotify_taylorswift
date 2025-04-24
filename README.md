@@ -33,7 +33,7 @@ Este repositório contém uma análise exploratória das métricas de áudio e d
 
 1. **Clone o repositório**  
    ```bash
-   git clone https://github.com/SEU_USUARIO/spotify-ts-analysis.git
+   git clone https://github.com/alinepax/analise_spotify_taylorswift.git
    cd spotify-ts-analysis
    ```
 
