@@ -30,8 +30,8 @@ Este repositório contém uma análise exploratória das métricas de áudio e d
 ### 🎵 Popularidade por Tipo de Álbum
 ![Popularidade por Tipo de Álbum](images/popularidade_por_tipo_album.png)
 
-### 📊 Médias das Características por Álbum
-![Média das Características por Álbum](images/media_caracteristicas_album.png)
+### 📊 Popularidade das Músicas por Ano
+![Popularidade Músicas por Ano](images/popularidade_por_ano.png)
 
 ### 🔥 Heatmap de Características Sonoras por Álbum
 ![Heatmap de Características](images/heatmap_caracteristicas_album.png)
